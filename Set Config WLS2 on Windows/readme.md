@@ -41,7 +41,7 @@ wsl --update
 - Start  with   [wsl2] 
 - memory=8GB   set how much memory want
 - processors=4   set how many virtual processors you want 
-- guiApplications=false  disable GUI on distros  optional 
+- guiApplications=false  disable GUI on distros  (optional)
 
 
 #### Save and restart  docker desktop application, That's it.
