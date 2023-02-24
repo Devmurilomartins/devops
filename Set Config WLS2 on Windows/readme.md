@@ -14,7 +14,7 @@
 wsl --update 
 ```
  
- ## 3 - Create a file:
+ ## 3 - Create a file .wslconfig:
  Go to  your  userprofile directory  C:\Users\”Your user name”\ 
 
 (you can open with  win+r   and paste %userprofile% to open this directory)
