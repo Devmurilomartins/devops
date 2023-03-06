@@ -26,7 +26,7 @@ wsl --update
 
  
 
-## 4 - Editing the file .wslconfig 
+## 4 - Editing the file [.wslconfig](https://github.com/Devmurilomartins/devops/blob/main/Set%20Config%20WLS2%20on%20Windows/.wslconfig)
 
 ### You file should look like this:
 
